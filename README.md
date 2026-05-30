@@ -7,7 +7,9 @@
 Built an interactive number guessing game in C++ where users attempt to guess a randomly generated number.
 Implemented random number generation, score tracking, and hint mechanisms to improve gameplay.
 Applied loops, conditional logic, and user input handling to create an engaging gaming experience.
-<img width="208" height="201" place ="center" alt="image" src="https://github.com/user-attachments/assets/144f39dc-d42c-43a8-a237-51062f448990" />
+<p align="center">
+<img width="408" height="201" place ="center" alt="image" src="https://github.com/user-attachments/assets/144f39dc-d42c-43a8-a237-51062f448990" />
+</p>
 
 
 **Task 2 - Simple Calculator (C++)**
