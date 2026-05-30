@@ -14,9 +14,10 @@ Applied concepts of functions, conditional statements, and loops to perform calc
 Created a command-line to-do list application in C++ to add, view, update, and delete tasks.
 Designed a simple task management system to help users organize daily activities.
 Utilized file handling and data structures to store and manage task information.
-3. Number Guessing Game (C++)
 
-**Number Guessing Game**
+**3. Number Guessing Game (C++)**
+
+**.Number Guessing Game**
 
 Built an interactive number guessing game in C++ where users attempt to guess a randomly generated number.
 Implemented random number generation, score tracking, and hint mechanisms to improve gameplay.
